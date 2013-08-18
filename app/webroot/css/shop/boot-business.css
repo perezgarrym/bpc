@@ -265,3 +265,6 @@ footer {
 .carousel-inner {
 	height: 370px !important;
 }
+.thumbnails img{
+	height: 250px !important;
+}
