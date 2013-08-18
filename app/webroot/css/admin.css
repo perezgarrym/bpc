@@ -1,0 +1,21 @@
+body {
+	padding-bottom: 40px;
+}
+
+.content {
+	font-size: 80%;
+	padding: 10px;
+	padding-top: 0;
+}
+
+.error {
+	color: #CC0000;
+}
+
+#flashMessage{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:10px;
+	background:#EEEEEE;
+	color:#444444;
+}
