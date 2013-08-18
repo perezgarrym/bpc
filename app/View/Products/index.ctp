@@ -35,11 +35,20 @@
                      <h1>TELL ABOUT YOUR ANOTHER PRODUCT </h1>
                       <p>
 						Direct Selling.
-                       Everybody deserve to be beautiful
+						Everybody deserve to be beautiful
                       </p>                    
                     </div>
                     <div class="span5">
                       <img src="img/2.jpg" class="thumbnail">
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+              <div class="item">
+                <div class="hero-unit">
+                  <div class="row-fluid">
+                    <div class="span12">
+                      <img src="img/4.jpg" class="thumbnail">
                     </div>
                   </div>                  
                 </div>
@@ -60,7 +69,7 @@
             <ul class="thumbnails">
               <li class="span4">
                 <div class="thumbnail ">
-				  	<iframe src="https://www.facebook.com/video/embed?video_id=128702523951142" width="100%" height="100%" frameborder="0"></iframe>
+				  	<iframe src="https://www.facebook.com/video/embed?video_id=128702523951142" width="100%" height="100%" frameborder="0" alt="product name"></iframe>
                   <div class="caption">
                     <h3>What's New?</h3>
                     <p>
@@ -69,7 +78,7 @@
                   </div>
                   <div class="widget-footer">
                     <p>
-                        <a href="../../products/products" class="btn btn-primary">Buy now</a>&nbsp;
+                        <a href="/bpc/products/products" class="btn btn-primary">Buy now</a>&nbsp;
                     </p>
                   </div>
                 </div>
@@ -85,25 +94,14 @@
 						</div>
 						<div class="widget-footer">
 							<p>
-							  <a href="../../products/products" class="btn btn-primary">Buy now</a>&nbsp;
+							  <a href="/bpc/products/products" class="btn btn-primary">Buy now</a>&nbsp;
 							</p>
 						</div>
 					</div>
               </li>
               <li class="span4">
                 <div class="thumbnail">
-                  <img src="img/3.jpg" alt="product name">
-                  <div class="caption">
-                    <h3>Product name</h3>
-                    <p>
-                      Few attractive words about your product.
-                    </p>
-                  </div>
-                  <div class="widget-footer">
-                    <p>
-						<a href="../../products/products" class="btn btn-primary">Buy now</a>&nbsp;
-                    </p>
-                  </div>
+                  <img src="img/5.jpg" alt="product name">
                 </div>
               </li>
             </ul>
