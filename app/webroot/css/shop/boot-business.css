@@ -1,3 +1,4 @@
+
 footer {
   border: none;
   padding: 15px 0;
@@ -39,8 +40,12 @@ footer {
 
 /* Start: Bootbusiness specific CSS */
 .content {
-  padding: 30px 0;
-  background: url('../../img/content.png');
+	padding: 30px 0;
+	background: url('../../img/pink_wallpaper1.jpg') no-repeat;
+	background-size: 200%;
+   
+  /*background: url('../../img/content.png');*/
+
 }
 .thumbnail img {
   width: 100%;
@@ -264,4 +269,7 @@ footer {
 
 .carousel-inner {
 	height: 370px !important;
+}
+.thumbnails img{
+	height: 250px !important;
 }

@@ -47,6 +47,7 @@
 </head>
 <body>
 	<div class="navbar-inverse navbar-static-top">
+			
 		<div class="container">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-bar"></span>
@@ -96,6 +97,10 @@
 
 	<footer>
 		<div class="container">
+			<a href="https://www.facebook.com/pages/Barbra-Pearls-Cosmetics/529658217044412" target="_blank">
+				<img src="/bpc/img/facebook.png" width=20 height=20> 
+				<span>Like us on Facebook</span>
+			</a>
 			<p>&copy; 2013 Barbra Pearls Cosmetics. All Rights Reserved.</p>
 		</div>
     </footer>
